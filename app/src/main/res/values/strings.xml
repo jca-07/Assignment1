@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lbl_title">Cake Ordering App</string>
+
+    <string name="l1_0">Square</string>
+    <string name="l1_1">Triangle</string>
+    <string name="l1_2">Circle</string>
+
+    <string name="l2_0">Caramel</string>
+    <string name="l2_1">Choco</string>
+    <string name="l2_2">Custard</string>
+
+    <string name="l3_0">Ginger</string>
+    <string name="l3_1">Onion</string>
+    <string name="l3_2">Garlic</string>
+</resources>
